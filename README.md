@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Некипелов Дмитрий</a></h1>
+<h1 align="center">Привет, меня зовут Дмитрий</a></h1>
 <h3 align="center">Python Backend Developer</h3>
 
 ### :man_technologist: Обо мне:
