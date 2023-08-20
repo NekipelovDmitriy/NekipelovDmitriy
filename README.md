@@ -11,7 +11,7 @@
 - :zap: 3 года опыта работы с Python (фриланс)
 
 <p align="center">
- <img width="687" src="assets/deadline.gif" alt="deadline"/>
+ <img width="450" src="assets/deadline.gif" alt="deadline"/>
 </p>
 
 ---
