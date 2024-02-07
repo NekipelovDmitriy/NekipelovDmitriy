@@ -21,7 +21,7 @@
 - Python
 - Django
 - Django REST Framework
-- aiohttp
+- FastApi
 - aiogram
 - selenium / beautiful soup
 - GIT
